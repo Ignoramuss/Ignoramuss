@@ -1,4 +1,6 @@
 Kubernetes, deployments and distributed orchestration @AWS. Currently building [Karpenter](https://github.com/kubernetes-sigs/karpenter).
+
+[Kubernetes](https://github.com/orgs/kubernetes/people?query=Ignoramuss) and [Kubernetes-sigs](https://github.com/orgs/kubernetes-sigs/people?query=Ignoramuss) member
 <!--
 **Ignoramuss/Ignoramuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
