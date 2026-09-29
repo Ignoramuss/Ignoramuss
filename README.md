@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Kubernetes, deployments and distributed orchestration @AWS. Currently building [Karpenter](https://github.com/kubernetes-sigs/karpenter).
 <!--
 **Ignoramuss/Ignoramuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
